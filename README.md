@@ -125,8 +125,7 @@ The highest-paying result in the analyzed sample had an average yearly salary of
 
 ### Visualization
 
-![Top Paying Data Analyst Jobs](https://raw.githubusercontent.com/saniasayed/SQL_Project_Data_Job_Analysis/main/top_paying_data_analyst_jobs.png)
-
+![Top Paying Data Analyst Jobs](https://raw.githubusercontent.com/saniasayed/SQL_Project_Data_Job_Analysis/main/Data_Job_Market_Analysis_SQL/assets/top_paying_jobs.png)
 ---
 
 ## 2. 🛠️ Skills Required for Top-Paying Jobs

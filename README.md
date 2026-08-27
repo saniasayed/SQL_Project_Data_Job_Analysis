@@ -111,7 +111,7 @@ It then joins the job postings with company information and sorts the results by
 
 ### SQL Query
 
-🔎 SQL queries? Check them out here: 🔎 [View `1_top_paying_jobs.sql`](https://github.com/saniasayed/SQL_Project_Data_Job_Analysis/blob/main/Data_Job_Market_Analysis_SQL/1_top_paying_jobs.sql)
+🔎 [View `1_top_paying_jobs.sql`](https://github.com/saniasayed/SQL_Project_Data_Job_Analysis/blob/main/Data_Job_Market_Analysis_SQL/1_top_paying_jobs.sql)
 
 ### Key Findings
 
@@ -134,7 +134,7 @@ The purpose is to understand what technical skills appear in high-paying opportu
 
 ### SQL Query
 
-[View `2_top_paying_jobs_skills.sql`](/project_sql/2_top_paying_jobs_skills.sql)
+🔎 [View `2_top_paying_jobs_skills.sql`](https://github.com/saniasayed/SQL_Project_Data_Job_Analysis/blob/main/Data_Job_Market_Analysis_SQL/2_top_paying_jobs_skills.sql)
 
 ### Key Findings
 
@@ -159,7 +159,7 @@ The goal is to identify the skills employers request most often.
 
 ### SQL Query
 
-[View `3_top_demanded_skills.sql`](3_top_demanded_skills.sql)
+🔎 [View `3_top_demanded_skills.sql`](https://github.com/saniasayed/SQL_Project_Data_Job_Analysis/blob/main/Data_Job_Market_Analysis_SQL/3_top_demanded_skills.sql)
 
 ### What This Analysis Helps Identify
 
@@ -182,7 +182,7 @@ The results are sorted by average salary to identify skills associated with high
 
 ### SQL Query
 
-[View `4_top_paying_skills.sql`](4_top_paying_skills.sql)
+🔎 [View `4_top_paying_skills.sql`](https://github.com/saniasayed/SQL_Project_Data_Job_Analysis/blob/main/Data_Job_Market_Analysis_SQL/4_top_paying_skills.sql)
 
 ### What This Analysis Helps Identify
 
@@ -211,7 +211,7 @@ Rather than looking only at salary or only at demand, this analysis looks for sk
 
 ### SQL Query
 
-[View `5_optimal_skills.sql`](5_optimal_skills.sql)
+🔎 [View `5_optimal_skills.sql`](https://github.com/saniasayed/SQL_Project_Data_Job_Analysis/blob/main/Data_Job_Market_Analysis_SQL/5_optimal_skills.sql)
 
 ### Why This Analysis Matters
 
@@ -306,11 +306,11 @@ All SQL queries used in this project are available in the [`project_sql`](projec
 
 | # | Analysis                   | SQL File                                                                   |
 | - | -------------------------- | -------------------------------------------------------------------------- |
-| 1 | Top Paying Jobs            | [`1_top_paying_jobs.sql`]🔎 [View `1_top_paying_jobs.sql`](https://github.com/saniasayed/SQL_Project_Data_Job_Analysis/blob/main/Data_Job_Market_Analysis_SQL/1_top_paying_jobs.sql)         |
-| 2 | Skills for Top-Paying Jobs | [`2_top_paying_jobs_skills.sql`](2_top_paying_jobs_skills.sql) |
-| 3 | Most Demanded Skills       | [`3_top_demanded_skills.sql`](3_top_demanded_skills.sql)       |
-| 4 | Highest-Paying Skills      | [`4_top_paying_skills.sql`](4_top_paying_skills.sql)           |
-| 5 | Most Optimal Skills        | [`5_optimal_skills.sql`](5_optimal_skills.sql)                 |
+| 1 | Top Paying Jobs            | 🔎 [View `1_top_paying_jobs.sql`](https://github.com/saniasayed/SQL_Project_Data_Job_Analysis/blob/main/Data_Job_Market_Analysis_SQL/1_top_paying_jobs.sql)         |
+| 2 | Skills for Top-Paying Jobs | 🔎 [View `2_top_paying_jobs_skills.sql`](https://github.com/saniasayed/SQL_Project_Data_Job_Analysis/blob/main/Data_Job_Market_Analysis_SQL/2_top_paying_jobs_skills.sql) |
+| 3 | Most Demanded Skills       | 🔎 [View `3_top_demanded_skills.sql`](https://github.com/saniasayed/SQL_Project_Data_Job_Analysis/blob/main/Data_Job_Market_Analysis_SQL/3_top_demanded_skills.sql)    |
+| 4 | Highest-Paying Skills      | 🔎 [View `4_top_paying_skills.sql`](https://github.com/saniasayed/SQL_Project_Data_Job_Analysis/blob/main/Data_Job_Market_Analysis_SQL/4_top_paying_skills.sql)          |
+| 5 | Most Optimal Skills        |🔎 [View `5_optimal_skills.sql`](https://github.com/saniasayed/SQL_Project_Data_Job_Analysis/blob/main/Data_Job_Market_Analysis_SQL/5_optimal_skills.sql)            |
 
 ---
 

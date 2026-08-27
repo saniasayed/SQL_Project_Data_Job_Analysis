@@ -149,7 +149,7 @@ Among the skills appearing in the analyzed top-paying Data Analyst opportunities
 
 ### Visualization
 
-![Skill Count for Top 10 Paying Data Analyst Jobs](assets\output.png)
+![Data Job Market Analysis](https://raw.githubusercontent.com/saniasayed/SQL_Project_Data_Job_Analysis/main/Data_Job_Market_Analysis_SQL/assets/output.png)
 
 ---
 

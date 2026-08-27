@@ -174,8 +174,7 @@ The results can help answer:
 
 ### Visualization
 
-![Most Demanded Data Analyst Skills](assets/3_query.png)
-
+![Most Demanded Data Analyst Skills](https://raw.githubusercontent.com/saniasayed/SQL_Project_Data_Job_Analysis/main/Data_Job_Market_Analysis_SQL/assets/3_query.png)
 ---
 
 ## 4. 💵 Highest-Paying Skills

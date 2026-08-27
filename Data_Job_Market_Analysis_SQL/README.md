@@ -113,8 +113,6 @@ It then joins the job postings with company information and sorts the results by
 
 [View `1_top_paying_jobs.sql`](Data_Job_Market_Analysis_SQL/1_top_paying_jobs.sql)
 
-(project_sql/1_top_paying_jobs.sql)
-
 ### Key Findings
 
 The analysis identified several high-paying Data Analyst opportunities.
@@ -125,7 +123,7 @@ The highest-paying result in the analyzed sample had an average yearly salary of
 
 ### Visualization
 
-![Top Paying Roles](Data_Job_Market_Analysis_SQL/assets/top_paying_jobs.png)
+![Top Paying Data Analyst Jobs](top_paying_data_analyst_jobs.png)
 ---
 
 ## 2. 🛠️ Skills Required for Top-Paying Jobs

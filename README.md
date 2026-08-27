@@ -199,7 +199,9 @@ This analysis provides insight into:
 
 *Add the highest-paying-skills graph here.*
 
-![Highest Paying Data Analyst Skills](assets\4_query.png)
+![Highest-Paying Data Analyst Skills](https://raw.githubusercontent.com/saniasayed/SQL_Project_Data_Job_Analysis/main/Data_Job_Market_Analysis_SQL/assets/4_query.png)
+
+---
 
 
 ---

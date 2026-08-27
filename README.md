@@ -111,8 +111,7 @@ It then joins the job postings with company information and sorts the results by
 
 ### SQL Query
 
-🔎 SQL queries? Check them out here: [project_sql](/project_sql/1_top_paying_jobs.sql)
-
+🔎 SQL queries? Check them out here: [View `1_top_paying_jobs.sql`](1_top_paying_jobs.sql)
 (project_sql/1_top_paying_jobs.sql)
 
 ### Key Findings

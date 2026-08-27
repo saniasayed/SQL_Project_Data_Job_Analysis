@@ -228,7 +228,9 @@ This makes the final analysis particularly useful for students deciding which sk
 
 *Add the optimal-skills graph here.*
 
-![Most Optimal Data Analyst Skills](assets\5_query.png)
+![Most Optimal Data Analyst Skills](https://raw.githubusercontent.com/saniasayed/SQL_Project_Data_Job_Analysis/main/Data_Job_Market_Analysis_SQL/assets/5_query.png)
+
+---
 
 ---
 

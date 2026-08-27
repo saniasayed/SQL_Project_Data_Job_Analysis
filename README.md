@@ -111,7 +111,7 @@ It then joins the job postings with company information and sorts the results by
 
 ### SQL Query
 
-🔎 SQL queries? Check them out here: [View `1_top_paying_jobs.sql`](1_top_paying_jobs.sql)
+🔎 SQL queries? Check them out here: 🔎 [View `1_top_paying_jobs.sql`](https://github.com/saniasayed/SQL_Project_Data_Job_Analysis/blob/main/Data_Job_Market_Analysis_SQL/1_top_paying_jobs.sql)
 
 ### Key Findings
 

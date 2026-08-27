@@ -306,7 +306,7 @@ All SQL queries used in this project are available in the [`project_sql`](projec
 
 | # | Analysis                   | SQL File                                                                   |
 | - | -------------------------- | -------------------------------------------------------------------------- |
-| 1 | Top Paying Jobs            | [`1_top_paying_jobs.sql`](1_top_paying_jobs.sql)               |
+| 1 | Top Paying Jobs            | [`1_top_paying_jobs.sql`]🔎 [View `1_top_paying_jobs.sql`](https://github.com/saniasayed/SQL_Project_Data_Job_Analysis/blob/main/Data_Job_Market_Analysis_SQL/1_top_paying_jobs.sql)         |
 | 2 | Skills for Top-Paying Jobs | [`2_top_paying_jobs_skills.sql`](2_top_paying_jobs_skills.sql) |
 | 3 | Most Demanded Skills       | [`3_top_demanded_skills.sql`](3_top_demanded_skills.sql)       |
 | 4 | Highest-Paying Skills      | [`4_top_paying_skills.sql`](4_top_paying_skills.sql)           |
